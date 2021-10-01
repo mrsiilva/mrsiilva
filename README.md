@@ -1,12 +1,9 @@
 ### Eiii! Eu sou a Rúbia 👋
 
-- 💻 Aspirante a desenvolvedora front-end
-- 📚 Atualmente estudando JavaScript | HTML | CSS
-
 <div align="center">
   <a href="https://github.com/mrsiilva">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=mrsiilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsiilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrsiilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsiilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
