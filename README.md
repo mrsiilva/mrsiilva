@@ -1,9 +1,11 @@
-## Eiii! Eu sou a Rúbia 👋
+# Eiii! Eu sou a Rúbia 👋
 
-### Sobre mim:
+## Sobre mim:
+##
 Estou no processo de transição para me tornar uma Desenvolvedora Front-end 🥰
 Sou formada em Psicologia. Mas me encontrei de verdade com a programação! 
 Amo criar coisas novas e resolver problemas.
+##
 
 <div align="center">
   <a href="https://github.com/mrsiilva">
