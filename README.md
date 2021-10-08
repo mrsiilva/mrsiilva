@@ -1,4 +1,10 @@
 ## Eiii! Eu sou a Rúbia 👋
+
+### Sobre mim:
+Estou no processo de transição para me tornar uma Desenvolvedora Front-end 🥰
+Sou formada em Psicologia. Mas me encontrei de verdade com a programação! 
+Amo criar coisas novas e resolver problemas.
+
 <div align="center">
   <a href="https://github.com/mrsiilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrsiilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
