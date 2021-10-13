@@ -1,8 +1,8 @@
 # Eiii! Eu sou a Rúbia 👋
 
 ## Sobre mim:
-Estou no processo de transição para me tornar uma Desenvolvedora de software 🥰
-Sou formada em Psicologia. Mas me encontrei de verdade com a programação! 
+Estou no processo de transição para me tornar uma Desenvolvedora de software 🥰 <br>
+Sou formada em Psicologia. Mas me encontrei de verdade com a programação! <br>
 Amo criar coisas novas e sou apaixonada pela área de front-end.
 ##
 
