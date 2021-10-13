@@ -1,9 +1,9 @@
 # Eiii! Eu sou a Rúbia 👋
 
 ## Sobre mim:
-Estou no processo de transição para me tornar uma Desenvolvedora Front-end 🥰
+Estou no processo de transição para me tornar uma Desenvolvedora de software 🥰
 Sou formada em Psicologia. Mas me encontrei de verdade com a programação! 
-Amo criar coisas novas e resolver problemas.
+Amo criar coisas novas e sou apaixonada pela área de front-end.
 ##
 
 <div align="center">
