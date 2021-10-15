@@ -6,7 +6,7 @@ Sou formada em Psicologia. Mas me encontrei de verdade com a programação! <br>
 Amo criar coisas novas e sou apaixonada pela área de front-end.
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/mrsiilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrsiilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsiilva&layout=compact&langs_count=7&theme=dracula"/>
