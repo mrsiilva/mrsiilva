@@ -1,9 +1,11 @@
 # Eiii! Eu sou a Rúbia 👋
 
+<img height="400px" width="800px" align="center" alt= "Computer Girl" src="https://1.bp.blogspot.com/-uxg2kITl60Q/YJs2yOP2XVI/AAAAAAAAHsM/NI2eg6_AbiQsau4u5YmkwzXQDtON4LPmgCLcBGAsYHQ/s1200/7ac71e72373b0fb270b3a6d72e44eea3.gif"/>
+
 ## Sobre mim:
-Estou no processo de transição para me tornar uma Desenvolvedora de software 🥰 <br>
-Sou formada em Psicologia. Mas me encontrei de verdade com a programação! <br>
-Amo criar coisas novas e sou apaixonada pela área de front-end.
+💻 Me dedicando no aprendizado de JavaScript, Node.js, VueJs<br>
+❤ Amo criar coisas novas e sou apaixonada por tecnologia! <br>
+📚 Em breve, uma Desenvolvedora Full-Stack!
 ##
 
 <div>
@@ -18,7 +20,9 @@ Amo criar coisas novas e sou apaixonada pela área de front-end.
   <img align="center" alt="Rubia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rubia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rubia-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rubia-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="Rubia-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 ##
