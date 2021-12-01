@@ -3,7 +3,7 @@
 <img height="400px" width="800px" align="center" alt= "Computer Girl" src="https://1.bp.blogspot.com/-uxg2kITl60Q/YJs2yOP2XVI/AAAAAAAAHsM/NI2eg6_AbiQsau4u5YmkwzXQDtON4LPmgCLcBGAsYHQ/s1200/7ac71e72373b0fb270b3a6d72e44eea3.gif"/>
 
 ## Sobre mim:
-💻 Estudando e me aprofundando no C#/.Net/.NetCore<br>
+
 ❤ Amo criar coisas novas e sou apaixonada por tecnologia! <br>
 📚 Em breve, uma Desenvolvedora Back-end!
 ##
