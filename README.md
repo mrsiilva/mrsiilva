@@ -1,5 +1,5 @@
-<h1 align="center">Eiii! Eu sou a Rúbia 👋</h1>
-
+<h1 align="center">🌼 Eiii! Eu sou a Rúbia 🌼</h1>
+<br>
 <img height="400px" width="800px" align="center" alt= "Computer Girl" src="https://1.bp.blogspot.com/-uxg2kITl60Q/YJs2yOP2XVI/AAAAAAAAHsM/NI2eg6_AbiQsau4u5YmkwzXQDtON4LPmgCLcBGAsYHQ/s1200/7ac71e72373b0fb270b3a6d72e44eea3.gif"/>
 
 ## Sobre mim:
@@ -21,7 +21,9 @@
   <img align="center" alt="Rubia-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="rubia-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="rubia-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Rubia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Rubia-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Rubia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rubia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 ##
