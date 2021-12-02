@@ -1,6 +1,6 @@
 <h1 align="center">🌼 Eiii! Eu sou a Rúbia 🌼</h1>
 <br>
-<img height="400px" width="800px" align="center" alt= "Computer Girl" src="https://1.bp.blogspot.com/-uxg2kITl60Q/YJs2yOP2XVI/AAAAAAAAHsM/NI2eg6_AbiQsau4u5YmkwzXQDtON4LPmgCLcBGAsYHQ/s1200/7ac71e72373b0fb270b3a6d72e44eea3.gif"/>
+<img height="400px" width="800px" alt= "Computer Girl" src="https://1.bp.blogspot.com/-uxg2kITl60Q/YJs2yOP2XVI/AAAAAAAAHsM/NI2eg6_AbiQsau4u5YmkwzXQDtON4LPmgCLcBGAsYHQ/s1200/7ac71e72373b0fb270b3a6d72e44eea3.gif"/>
 
 ## Sobre mim:
 🌱Atualmente estudando C#, .Net, .Net Core <br>
