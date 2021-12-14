@@ -5,7 +5,7 @@
 <h2>Um pouco sobre mim...</h2>
 👩🏼‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas<br>
 🌱 Atualmente estudando JavaScript, Node.js, Express <br>
-💻 Amo criar coisas novas e sou apaixonada por tecnologia! <br>
+💻 Apaixonada por tecnologia! <br>
 📚 Me dedicando a ser uma Desenvolvedora Back-end!
 
 <hr>
